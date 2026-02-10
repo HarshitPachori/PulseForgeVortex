@@ -1,0 +1,16 @@
+# Common
+node_modules
+dist
+build
+target
+*.log
+.env
+.DS_Store
+
+# Go
+vendor/
+go.work
+
+# Java
+.gradle/
+.mvn/
